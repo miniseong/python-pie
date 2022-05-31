@@ -1,4 +1,4 @@
-# Train myself
+# bankmarketingstrategy
 <a>
 with <img src="https://img.shields.io/badge/ASUS-000000?style=flat-square&logo=ASUS&logoColor=white"/>
 SNS<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
